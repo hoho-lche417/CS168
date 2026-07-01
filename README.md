@@ -1,0 +1,1 @@
+The repo holds the projects for the free online course [CS 168: Introduction to the Internet: Architecture and Protocols (Spring 2026)](https://sp26.cs168.io/). The videos are also available for the [Spring 2025](https://sp25.cs168.io/) version. Both offerings are largely the same
